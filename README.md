@@ -1,5 +1,3 @@
-<a name="readme-top"></a>
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
